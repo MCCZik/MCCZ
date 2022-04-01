@@ -2,7 +2,7 @@
 <h3 align="center">Moderator, Leader, *a bit Builder* & Developer from Czech Republic</h3>
 
 - 🥇 Years 2020-2021 owner of **MCCZcraft** (later renamed to MysteryPlanet.eu) *abandoned*
-- 🌱 I’m currently learning **Django, Spring, Java, JavaScript & frameworks**
+- 🌱 I’m currently learning **Java, JavaScript & frameworks**
 - ⚡ Fun fact **I love cats! :blobDance:**
 
 <h3>My biggest projects:</h3>
