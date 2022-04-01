@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mccz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zortik_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/MCCZ1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zortikova oaza" height="30" width="40" /></a>
+<a href="https://instagram.com/mccz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mccz_official" height="30" width="40" /></a>
+<a href="https://www.youtube.com/MCCZ1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MCCZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
