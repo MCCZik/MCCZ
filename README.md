@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MCCZ!</h1>
+<h1 align="center">👋 Hi, I'm MCCZ!</h1>
 <h3 align="center">Moderator, Leader, *a bit Builder* & Developer from Czech Republic</h3>
 
 - 🥇 Years 2020-2021 owner of **MCCZcraft** (later renamed to MysteryPlanet.eu) *abandoned*
